@@ -1,0 +1,4 @@
+<map id="CloudOnce.Internal.Providers.DummyProvider" name="CloudOnce.Internal.Providers.DummyProvider">
+<area shape="rect" id="node1" title="Dummy provider for unsupported platforms." alt="" coords="5,95,199,136"/>
+<area shape="rect" id="node2" href="$class_cloud_once_1_1_internal_1_1_cloud_provider_base.html" title=" " alt="" coords="33,5,171,47"/>
+</map>

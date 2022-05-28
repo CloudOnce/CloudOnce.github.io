@@ -1,0 +1,4 @@
+<map id="CloudOnce.Internal.Providers.TestProviderStorageWrapper" name="CloudOnce.Internal.Providers.TestProviderStorageWrapper">
+<area shape="rect" id="node1" title="For testing cloud save in the editor" alt="" coords="5,80,199,121"/>
+<area shape="rect" id="node2" href="$interface_cloud_once_1_1_internal_1_1_providers_1_1_i_cloud_storage_provider.html" title="Interface for platform&#45;agnostic access to cloud save." alt="" coords="27,5,177,32"/>
+</map>

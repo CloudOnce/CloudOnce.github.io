@@ -1,0 +1,11 @@
+<map id="CloudOnce.Internal.IJsonSerializable" name="CloudOnce.Internal.IJsonSerializable">
+<area shape="rect" id="node1" title=" " alt="" coords="5,104,172,145"/>
+<area shape="rect" id="node2" href="$class_cloud_once_1_1_internal_1_1_editor_1_1_data_1_1_cloud_config.html" title="Data&#45;class for storing CloudOnce configuration." alt="" coords="220,5,395,47"/>
+<area shape="rect" id="node3" href="$class_cloud_once_1_1_internal_1_1_editor_1_1_data_1_1_cloud_variable_data.html" title="Stores info about cloud variables declared in the CloudOnce Editor" alt="" coords="220,71,395,112"/>
+<area shape="rect" id="node4" href="$class_cloud_once_1_1_internal_1_1_editor_1_1_data_1_1_platform_id_data.html" title="Stores achievement/leaderboard IDs for each supported platform as well as an internal ID." alt="" coords="220,136,395,177"/>
+<area shape="rect" id="node5" href="$interface_cloud_once_1_1_internal_1_1_i_json_convertible.html" title=" " alt="" coords="224,201,391,243"/>
+<area shape="rect" id="node6" href="$class_cloud_once_1_1_internal_1_1_currency_value.html" title="Data&#45;class to store currency value." alt="" coords="456,107,644,148"/>
+<area shape="rect" id="node7" href="$class_cloud_once_1_1_internal_1_1_syncable_currency.html" title="Handles virtual currencies. Keeps a record of all the earnings and purchases for every device the use..." alt="" coords="455,172,645,213"/>
+<area shape="rect" id="node8" href="$class_cloud_once_1_1_internal_1_1_syncable_item.html" title="Data&#45;class for regular cloud preferences. Takes care of serialization and deserialization of the data..." alt="" coords="443,238,657,265"/>
+<area shape="rect" id="node9" href="$class_cloud_once_1_1_internal_1_1_syncable_item_meta_data.html" title="Holds data about a SyncableItem." alt="" coords="455,289,645,331"/>
+</map>

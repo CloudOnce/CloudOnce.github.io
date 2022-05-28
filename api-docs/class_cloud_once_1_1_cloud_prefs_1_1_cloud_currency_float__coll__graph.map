@@ -1,0 +1,5 @@
+<map id="CloudOnce.CloudPrefs.CloudCurrencyFloat" name="CloudOnce.CloudPrefs.CloudCurrencyFloat">
+<area shape="rect" id="node1" title="Used to create virtual currencies that gets stored in the cloud. This type uses float values...." alt="" coords="5,155,196,196"/>
+<area shape="rect" id="node2" href="$class_cloud_once_1_1_internal_1_1_persistent_currency.html" title="A currency that is stored in the cloud." alt="" coords="34,80,167,107"/>
+<area shape="rect" id="node3" href="$interface_cloud_once_1_1_internal_1_1_i_persistent.html" title="Used by cloud preferences to facilitate loading and saving of data." alt="" coords="59,5,143,32"/>
+</map>

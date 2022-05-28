@@ -1,0 +1,6 @@
+<map id="CloudOnce.Internal.SyncableCurrency" name="CloudOnce.Internal.SyncableCurrency">
+<area shape="rect" id="node1" title="Handles virtual currencies. Keeps a record of all the earnings and purchases for every device the use..." alt="" coords="44,155,235,196"/>
+<area shape="rect" id="node2" href="$interface_cloud_once_1_1_internal_1_1_i_json_convertible.html" title=" " alt="" coords="82,80,197,107"/>
+<area shape="rect" id="node3" href="$interface_cloud_once_1_1_internal_1_1_i_json_serializable.html" title=" " alt="" coords="5,5,124,32"/>
+<area shape="rect" id="node4" href="$interface_cloud_once_1_1_internal_1_1_i_json_deserializable.html" title=" " alt="" coords="149,5,282,32"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="CloudOnce.Internal.Providers.iOSCloudSaveWrapper" name="CloudOnce.Internal.Providers.iOSCloudSaveWrapper">
+<area shape="rect" id="node1" title="This wrapper encapsulates the platform specific code needed to provide cloud storage on the iOS platf..." alt="" coords="5,80,201,121"/>
+<area shape="rect" id="node2" href="$interface_cloud_once_1_1_internal_1_1_providers_1_1_i_cloud_storage_provider.html" title="Interface for platform&#45;agnostic access to cloud save." alt="" coords="29,5,178,32"/>
+</map>

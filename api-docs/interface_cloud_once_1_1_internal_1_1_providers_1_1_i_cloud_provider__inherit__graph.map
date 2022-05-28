@@ -1,0 +1,4 @@
+<map id="CloudOnce.Internal.Providers.ICloudProvider" name="CloudOnce.Internal.Providers.ICloudProvider">
+<area shape="rect" id="node1" title="Interface for accessing platform&#45;agnostic cloud functionality." alt="" coords="5,5,199,47"/>
+<area shape="rect" id="node2" href="$class_cloud_once_1_1_internal_1_1_cloud_provider_base.html" title="Base class for the Cloud service providers." alt="" coords="17,95,187,136"/>
+</map>

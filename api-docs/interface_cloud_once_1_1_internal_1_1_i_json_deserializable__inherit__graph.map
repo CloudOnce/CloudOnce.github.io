@@ -1,0 +1,8 @@
+<map id="CloudOnce.Internal.IJsonDeserializable" name="CloudOnce.Internal.IJsonDeserializable">
+<area shape="rect" id="node1" title=" " alt="" coords="5,100,172,141"/>
+<area shape="rect" id="node2" href="$interface_cloud_once_1_1_internal_1_1_i_json_convertible.html" title=" " alt="" coords="220,100,387,141"/>
+<area shape="rect" id="node3" href="$class_cloud_once_1_1_internal_1_1_currency_value.html" title="Data&#45;class to store currency value." alt="" coords="448,5,636,47"/>
+<area shape="rect" id="node4" href="$class_cloud_once_1_1_internal_1_1_syncable_currency.html" title="Handles virtual currencies. Keeps a record of all the earnings and purchases for every device the use..." alt="" coords="447,71,637,112"/>
+<area shape="rect" id="node5" href="$class_cloud_once_1_1_internal_1_1_syncable_item.html" title="Data&#45;class for regular cloud preferences. Takes care of serialization and deserialization of the data..." alt="" coords="435,137,649,163"/>
+<area shape="rect" id="node6" href="$class_cloud_once_1_1_internal_1_1_syncable_item_meta_data.html" title="Holds data about a SyncableItem." alt="" coords="447,188,637,229"/>
+</map>

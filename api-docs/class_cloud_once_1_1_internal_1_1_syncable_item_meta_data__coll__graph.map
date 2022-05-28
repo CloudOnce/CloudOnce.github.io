@@ -1,0 +1,7 @@
+<map id="CloudOnce.Internal.SyncableItemMetaData" name="CloudOnce.Internal.SyncableItemMetaData">
+<area shape="rect" id="node1" title="Holds data about a SyncableItem." alt="" coords="81,169,272,211"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,80,180,121"/>
+<area shape="rect" id="node3" href="$interface_cloud_once_1_1_internal_1_1_i_json_convertible.html" title=" " alt="" coords="205,87,319,114"/>
+<area shape="rect" id="node4" href="$interface_cloud_once_1_1_internal_1_1_i_json_serializable.html" title=" " alt="" coords="127,5,245,32"/>
+<area shape="rect" id="node5" href="$interface_cloud_once_1_1_internal_1_1_i_json_deserializable.html" title=" " alt="" coords="270,5,403,32"/>
+</map>

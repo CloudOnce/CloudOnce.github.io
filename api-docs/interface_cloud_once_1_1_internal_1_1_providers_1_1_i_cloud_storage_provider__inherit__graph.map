@@ -1,0 +1,7 @@
+<map id="CloudOnce.Internal.Providers.ICloudStorageProvider" name="CloudOnce.Internal.Providers.ICloudStorageProvider">
+<area shape="rect" id="node1" title="Interface for platform&#45;agnostic access to cloud save." alt="" coords="5,104,199,145"/>
+<area shape="rect" id="node2" href="$class_cloud_once_1_1_internal_1_1_providers_1_1_dummy_storage_wrapper.html" title="Dummy storage wrapper for unsupported platforms." alt="" coords="271,5,464,47"/>
+<area shape="rect" id="node3" href="$class_cloud_once_1_1_internal_1_1_providers_1_1_google_play_games_cloud_save_wrapper.html" title="This wrapper encapsulates the platform specific code needed to provide cloud storage on the Google Pl..." alt="" coords="247,71,488,112"/>
+<area shape="rect" id="node4" href="$class_cloud_once_1_1_internal_1_1_providers_1_1_test_provider_storage_wrapper.html" title="For testing cloud save in the editor" alt="" coords="271,136,464,177"/>
+<area shape="rect" id="node5" href="$class_cloud_once_1_1_internal_1_1_providers_1_1i_o_s_cloud_save_wrapper.html" title="This wrapper encapsulates the platform specific code needed to provide cloud storage on the iOS platf..." alt="" coords="269,201,465,243"/>
+</map>

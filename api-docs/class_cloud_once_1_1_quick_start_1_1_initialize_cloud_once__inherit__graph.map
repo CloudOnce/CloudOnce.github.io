@@ -1,0 +1,4 @@
+<map id="CloudOnce.QuickStart.InitializeCloudOnce" name="CloudOnce.QuickStart.InitializeCloudOnce">
+<area shape="rect" id="node1" title="Attach this anywhere in the scene you want the players to log in to the native services." alt="" coords="5,80,208,121"/>
+<area shape="rect" id="node2" title=" " alt="" coords="51,5,162,32"/>
+</map>

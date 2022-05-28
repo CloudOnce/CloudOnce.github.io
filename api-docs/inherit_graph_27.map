@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$interface_cloud_once_1_1_internal_1_1_i_persistent.html" title="Used by cloud preferences to facilitate loading and saving of data." alt="" coords="5,78,204,105"/>
+<area shape="rect" id="node2" href="$class_cloud_once_1_1_internal_1_1_persistent_currency.html" title="A currency that is stored in the cloud." alt="" coords="252,37,447,79"/>
+<area shape="rect" id="node5" href="$class_cloud_once_1_1_internal_1_1_persistent_value.html" title="A preference that is stored in the cloud." alt="" coords="252,103,447,144"/>
+<area shape="rect" id="node3" href="$class_cloud_once_1_1_cloud_prefs_1_1_cloud_currency_float.html" title="Used to create virtual currencies that gets stored in the cloud. This type uses float values...." alt="" coords="495,5,685,47"/>
+<area shape="rect" id="node4" href="$class_cloud_once_1_1_cloud_prefs_1_1_cloud_currency_int.html" title="Used to create virtual currencies that gets stored in the cloud. This type uses int values...." alt="" coords="495,71,685,112"/>
+</map>

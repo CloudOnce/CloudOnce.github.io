@@ -1,0 +1,9 @@
+<map id="CloudOnce.Internal.IJsonConvertible" name="CloudOnce.Internal.IJsonConvertible">
+<area shape="rect" id="node1" title=" " alt="" coords="187,100,353,141"/>
+<area shape="rect" id="node4" href="$class_cloud_once_1_1_internal_1_1_currency_value.html" title="Data&#45;class to store currency value." alt="" coords="415,5,603,47"/>
+<area shape="rect" id="node5" href="$class_cloud_once_1_1_internal_1_1_syncable_currency.html" title="Handles virtual currencies. Keeps a record of all the earnings and purchases for every device the use..." alt="" coords="413,71,604,112"/>
+<area shape="rect" id="node6" href="$class_cloud_once_1_1_internal_1_1_syncable_item.html" title="Data&#45;class for regular cloud preferences. Takes care of serialization and deserialization of the data..." alt="" coords="401,137,616,163"/>
+<area shape="rect" id="node7" href="$class_cloud_once_1_1_internal_1_1_syncable_item_meta_data.html" title="Holds data about a SyncableItem." alt="" coords="413,188,604,229"/>
+<area shape="rect" id="node2" href="$interface_cloud_once_1_1_internal_1_1_i_json_serializable.html" title=" " alt="" coords="13,82,131,109"/>
+<area shape="rect" id="node3" href="$interface_cloud_once_1_1_internal_1_1_i_json_deserializable.html" title=" " alt="" coords="5,133,139,159"/>
+</map>
